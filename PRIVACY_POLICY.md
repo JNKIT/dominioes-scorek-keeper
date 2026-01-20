@@ -220,7 +220,7 @@ La fecha de "Última Actualización" en la parte superior de esta política refl
 ### Contacto
 
 Para preguntas sobre esta política de privacidad, contacta:
-- Correo electrónico: contact@jnki.com
+- Correo electrónico: contact@jnkit.com
 
 ### Tus Derechos
 
