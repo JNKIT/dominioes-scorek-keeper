@@ -80,10 +80,6 @@ You can delete all app data at any time by:
 1. Using Android's "Clear App Data" feature in Settings > Apps > Capicú
 2. Uninstalling the app
 
-### Open Source
-
-The app's source code is available for review at https://github.com/joelsmith/dominoes_scorekeeper, confirming our privacy claims.
-
 ### Changes to This Privacy Policy
 
 We may update this privacy policy from time to time. Updates will be posted:
@@ -96,7 +92,7 @@ The "Last Updated" date at the top of this policy will reflect when changes were
 ### Contact
 
 For questions about this privacy policy, contact:
-- Email: contact@jnki.com
+- Email: contact@jnkit.com
 
 ### Your Rights
 
